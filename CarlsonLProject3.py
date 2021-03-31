@@ -1,7 +1,5 @@
 """
 Code written by Luke Carlson
-10/15/2016
-Programming 1
 Dice race game
 """
 import random
