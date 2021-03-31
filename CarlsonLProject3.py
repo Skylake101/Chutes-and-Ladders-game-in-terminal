@@ -1,6 +1,6 @@
 """
 Code written by Luke Carlson
-Dice race game
+This program allows you to play chutes and ladders against the computer in your terminal window
 """
 import random
 end = 0 #If ends = 1 the program knows the game is over
