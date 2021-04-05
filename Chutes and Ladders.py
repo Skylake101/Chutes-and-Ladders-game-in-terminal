@@ -1,5 +1,5 @@
 """
-Code written by Luke Carlson
+Author: Luke Carlson
 This program allows you to play chutes and ladders against the computer in your terminal window
 """
 import random
